@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+            timestampString = "408081311.846943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "CzhEaglUILabel::reader()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+            timestampString = "407656206.815904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "CzhEaglUILabel::_backgroundFixSize()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUILabel::_backgroundFixSize()"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+                  timestampString = "407648264.776184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUILabel::_backgroundFixSize()"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+                  timestampString = "407648264.776487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+            timestampString = "408081311.846943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "CzhEaglUILabel::reader()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+            timestampString = "407656206.815904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "CzhEaglUILabel::_backgroundFixSize()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUILabel.cpp"
+            timestampString = "407656206.815904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "CzhEaglUILabel::_backgroundFixSize()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase_src/CzhEaglUICurve.cpp"
+            timestampString = "407672234.626388"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "CzhEaglUICurve::setPointBuf(EzhEaglUICurveBufType type,char* buf, int len)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUICurve::setPointBuf(_EzhEaglUICurveBufType, char*, int)"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglBase_src/CzhEaglUICurve.cpp"
+                  timestampString = "407672014.039877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUICurve::setPointBuf(_EzhEaglUICurveBufType, char*, int)"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglBase_src/CzhEaglUICurve.cpp"
+                  timestampString = "407672014.040212"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+            timestampString = "408276137.228198"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "CzhEaglUIButton::reader()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+            timestampString = "408274030.570552"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CzhEaglUIButton::CzhEaglUIButton()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+            timestampString = "408276137.228198"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "CzhEaglUIButton::setTitle(wstring str, EzhEaglBtnState bs, const char* fontname, float fontsize)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUIButton::setTitle(std::basic_string&lt;wchar_t, std::char_traits&lt;wchar_t&gt;, std::allocator&lt;wchar_t&gt; &gt;, _EzhEaglBtnState, char const*, float)"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+                  timestampString = "408274557.641363"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUIButton::setTitle(std::basic_string&lt;wchar_t, std::char_traits&lt;wchar_t&gt;, std::allocator&lt;wchar_t&gt; &gt;, _EzhEaglBtnState, char const*, float)"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+                  timestampString = "408274557.641592"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CzhEaglUIButton::setTitle(std::basic_string&lt;wchar_t, std::char_traits&lt;wchar_t&gt;, std::allocator&lt;wchar_t&gt; &gt;, _EzhEaglBtnState, char const*, float)"
+                  moduleName = "zhOpenglEs"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file://localhost/Users/hzh/Desktop/Opengles%E6%A1%86%E6%9E%B6%E5%BA%9345/zhEagl/zhOpenglObject/button/CzhEaglUIButton.cpp"
+                  timestampString = "408274557.641817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1246">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../zhEagl/zhOpenglBase/CzhEaglUIView.cpp"
+            timestampString = "454860936.757105"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CzhEaglUIView::CzhEaglUIView()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
